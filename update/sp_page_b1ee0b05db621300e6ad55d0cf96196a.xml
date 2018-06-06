@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <draft>false</draft>
+        <id>notes_body</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-05 22:39:52</sys_created_on>
+        <sys_id>b1ee0b05db621300e6ad55d0cf96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>notes_body</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_page_b1ee0b05db621300e6ad55d0cf96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-05 22:39:52</sys_updated_on>
+        <title>Notes Body - Test Page</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1ee0b05db621300e6ad55d0cf96196a"/>
+</record_update>
